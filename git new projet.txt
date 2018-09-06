@@ -1,1 +1,3 @@
 git new projet
+
+now i'm writing the code
